@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou o Matheus Dias Landim<br>Estou buscando aprender mais sobre Java, Spring, WebApps e Desenvolvimento Mobile no momento.
+Me chamo Matheus Landim<br>Estou buscando aprender mais sobre Java, Spring, WebApps e Desenvolvimento Mobile no momento.
 
 
 # 💻 Tech Stack:
